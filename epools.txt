@@ -14,11 +14,11 @@
 #
 # NOTE: PhoenixMiner also "understands" the epools.txt files from Claymore's dual Ethereum miner
 
-POOL: eu1.ethermine.org:4444, WAL: YourWallet.%COMPUTERNAME%
-POOL: us1.ethermine.org:4444, WAL: YourWallet.%COMPUTERNAME%
+POOL: eu1.ethermine.org:4444, WAL: 0xc696bfbdebb13d35a178319d9e8f57f191e0af5b.%B4J4CL7%
+POOL: us1.ethermine.org:4444, WAL: 0xc696bfbdebb13d35a178319d9e8f57f191e0af5b.%B4J4CL7%
 
 # The following line shows all possible pool options. The values for each option must follow the
 # same rules as these specified in the Readme.txt file for the -pool, -wal, -pass, -worker,
 # -proto, -coin, and -stales command-line options
 
-# POOL: europe.ethash-hub.miningpoolhub.com:20585, WAL: YourLoginName, WORKER: WorkerName, PASS: x, PROTO: 1, COIN: music, STALES: 1
+# POOL: europe.ethash-hub.miningpoolhub.com:20585, WAL: dasnil1972, WORKER: dasnil.worker, PASS: x, PROTO: 1, COIN: music, STALES: 1
