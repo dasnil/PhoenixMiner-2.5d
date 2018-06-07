@@ -12,6 +12,6 @@ REM setx GPU_MAX_ALLOC_PERCENT 100
 REM setx GPU_SINGLE_ALLOC_PERCENT 100
 
 REM Replace the ETH address with your own ETH wallet address in the -wal option (Rig001 is the name of the rig)
-PhoenixMiner.exe -pool eu1.ethermine.org:4444 -pool2 us1.ethermine.org:4444 -wal 0x008c26f3a2Ca8bdC11e5891e0278c9436B6F5d1E.Rig001
+PhoenixMiner.exe -pool eu1.ethermine.org:4444 -pool2 us1.ethermine.org:4444 -wal 0xc696bfbdebb13d35a178319d9e8f57f191e0af5b.Rig001
 pause
 
